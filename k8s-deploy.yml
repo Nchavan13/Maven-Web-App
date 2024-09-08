@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mavenwebappcontainer
-        image: nchavan13/k8s_app1:${BUILD_NUMBER}  # Use the dynamic build number as the tag
+        image: nchavan13/k8s_app1  # Use the dynamic build number as the tag
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
