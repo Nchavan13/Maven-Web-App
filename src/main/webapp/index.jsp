@@ -52,7 +52,7 @@
     <div class="hero-section">
         <h1>Welcome to Niltech Technology</h1>
         <p>Your Trusted Partner in Technology Solutions</p>
-        <a href="https://ashokitech.com/online-training-schedules" class="btn btn-custom btn-lg">See Ashok IT Training Schedules</a>
+        <a href="https://ashokitech.com/online-training-schedules" class="btn btn-custom btn-lg">See Niltech Technology Training Schedules</a>
     </div>
 
     <div class="container">
@@ -60,7 +60,7 @@
             <div class="col-md-12">
                 <div class="contact-section text-center">
                     <h2>Contact Us</h2>
-                    <p>Call Us: +91-9985396677 / +91-9985296677</p>
+                    <p>Call Us: +91-8999901676 / +91-9985296677</p>
                     <h3>Office Location: Ameerpet, Hyderabad</h3>
                 </div>
             </div>
